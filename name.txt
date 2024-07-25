@@ -1,2 +1,1 @@
 my name is jack
-only admin can change.
